@@ -117,8 +117,10 @@ Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visu
 
 ## Gestaltung lernwirksamer Lehr-Lernaktivitäten: Lerninhalte an die Aufmerksamkeitsspanne anpassen
 Bitte schauen Sie sich zunächst folgenden Screenshot von der TH Augsburg an. Überlegen Sie dabei auch hier: Decken sich die Aussagen des Textes mit Ihren Erfahrungen in Vorlesungen?
+
 ![Abbildung: Screenshot TH Augsburg unter https://www.tha.de/Vorlesung-gestalten.html am 19.08.2026](Medien/Aufmerksamkeitsspanne_THA.png)
 
+---
 Die Aufmerksamkeitskurve ist ebenfalls ein typischer Fall von intuitiv richtig klingenden Aussagen, die wissenschaftlich nicht oder nur teilweise belegt sind. Wenn man nach dem im Screenshot referenzierten Autor recherchiert, findet man immerhin einen Literaturverweis: Lloyd, D. H. (1968). A concept of improvement of learning response in the taught lesson. Visual Education, 23–25. Mir persönlich ist es jedoch nicht gelungen, die eigentliche Publikation ausfindig zu machen – schon mal ein schlechtes Zeichen. Sollte es jemandem von Ihnen gelingen, gerne bei mir melden! 
 Wilson und Korn (2007) zufolge schlussfolgerte Lloyd (1968), dass die Aufmerksamkeit von Studierenden während einer 50ig-minütigen Vorlesung in den ersten fünf Minuten am höchsten sei, nach etwa zehn Minuten abnehme und gegen Ende wieder etwas ansteige. Die beruhte jedoch nicht auf einer systematischen empirischen Untersuchung, sondern auf seinen eigenen Beobachtungen und Erfahrungen von Kollegen. 
 
