@@ -9,19 +9,20 @@ language: de
 # Einführung
 
 Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend gestalten mit LiaScript. Wie interaktive Lehr-Lernmaterialien einfach erstellt, mit Studierenden und Lehrenden aus aller Welt geteilt und kollaborativ bearbeitet werden können".
+Sie werden sich in diesem Kurs nicht nur mit Fragen der Gestaltung lernwirksamer Lehr-Lernaktivitäten und -materialien auseinandersetzen sondern zugleich aus eigener Anschauung einen mit LiaScript erstellten Kurs kennenlernen. Damit bekommen Sie bereits einen ersten Eindruck, was in LiaScript möglich ist.
 
 | __Inhaltliche Schwerpunkte__ | __Zeitbedarf__ |
 | -------- | ------ | 
-| Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die Bearbeitung der kleinen Aufgaben ein. |
+| Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 120 Minuten für die Rezeption der Inhalte und die Bearbeitung der kleinen Aufgaben ein. |
 
 
 __Lernziele__
 
-Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenperspektive ein und können daraus Erkenntnisse für die Gestaltung Ihrer eigenen Lehre bzw. Ihrer eigenen Lehr- und Lernmaterialien gewinnen. Entsprechend können Sie nach dem Durcharbeiten dieses asynchronen Workshopteils:
+Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenperspektive in einem mit LiaScript erstellten Kurs ein und können daraus Erkenntnisse für die Gestaltung Ihrer eigenen Lehre bzw. Ihrer eigenen Lehr- und Lernmaterialien gewinnen. Entsprechend können Sie nach dem Durcharbeiten dieses asynchronen Workshopteils:
 
 * Kriterien für gelungene Input- und Selbstlernphasen auf die eigene Lehre beziehen.
 * Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
-  
+* Möglichkeiten, die LiaScript für die Gestaltung von Lehr-Lernmaterialien bietet, benennen. 
 
 __Kontaktinfos__
 
@@ -70,7 +71,7 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 
 ---
 
-## Gestaltung lernwirksamer Lehr-Lernaktivitäten
+## Gestaltung lernwirksamer Lehr-Lernaktivitäten: Passive Formen des Lernens vermeiden
 
 Bitte schauen Sie sich die folgende Grafik mit einer Abbildung des "Cone of Experience" aus einem Artikel von Shaaruddin und Mohamad (2017) an.
 
@@ -111,6 +112,34 @@ Die Dichotomie von passiven Lernenden, die mit Texten, Vorträgen oder Videos le
 
 [^1] Und woher kommt der „Cone of Experience“ nun eigentlich?
 Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visualisierung der unterschiedlichen Arten des Lernens mit Medien von Dale (1946/1969) zurück, so wie die Abbildungsunterschrift in der Publikation von Shaaruddin und Mohamad (2017) auch suggeriert. Dale (1946) visualisiert in der ursprünglichen Grafik jedoch lediglich den Abstraktionsgrad von Lernerfahrungen, ohne davon auf das Behalten von Lerninhalten zu schließen. Auf welchem Weg die ursprüngliche Visualisierung zu einer Art pädagogischen Anleitung und damit zu einem Lernmythos geworden ist, lässt sich heute kaum noch rekonstruieren.
+
+---
+
+## Gestaltung lernwirksamer Lehr-Lernaktivitäten: Lerninhalte an die Aufmerksamkeitsspanne anpassen
+Bitte schauen Sie sich zunächst folgenden Screenshot von der TH Augsburg an. Überlegen Sie dabei auch hier: Decken sich die Aussagen des Textes mit Ihren Erfahrungen in Vorlesungen?
+![Abbildung: Screenshot TH Augsburg unter [https://www.tha.de/Vorlesung-gestalten.html](https://www.tha.de/Vorlesung-gestalten.html) (19.08.2026)](Aufmerksamkeitsspanne THA.png)
+
+Die Aufmerksamkeitskurve ist ebenfalls ein typischer Fall von intuitiv richtig klingenden Aussagen, die wissenschaftlich nicht oder nur teilweise belegt sind. Wenn man nach dem im Screenshot referenzierten Autor recherchiert, findet man immerhin einen Literaturverweis: Lloyd, D. H. (1968). A concept of improvement of learning response in the taught lesson. Visual Education, 23–25. Mir persönlich ist es jedoch nicht gelungen, die eigentliche Publikation ausfindig zu machen – schon mal ein schlechtes Zeichen. Sollte es jemandem von Ihnen gelingen, gerne bei mir melden! 
+Wilson und Korn (2007) zufolge schlussfolgerte Lloyd (1968), dass die Aufmerksamkeit von Studierenden während einer 50ig-minütigen Vorlesung in den ersten fünf Minuten am höchsten sei, nach etwa zehn Minuten abnehme und gegen Ende wieder etwas ansteige. Die beruhte jedoch nicht auf einer systematischen empirischen Untersuchung, sondern auf seinen eigenen Beobachtungen und Erfahrungen von Kollegen. 
+
+Die Literaturstudie von Wilson & Korn (2007) kommt zu dem Ergebnis, dass die pauschalen Aussagen der „Aufmerksamkeitskurve“ von wissenschaftlichen Studien nicht unterstützt werden. Die Aufmerksamkeitsspanne von Lernenden scheint dementgegen durchaus variabel zu sein und hängt von situativen Aspekten (z.B. der Vortragskunst des Lehrenden), Charakteristika des Lernenden (z.B. Interesse an bestimmten Themen, Konzentrationsfähigkeit) und der Aufbereitung der Inhalte ab. 
+Im Rahmen ihrer Doktorarbeit kann Gerbig-Calcagni (2009) einen eher wellenförmigen Verlauf von Aufmerksamkeit nachweisen, der sich von Themenabschnitt zu Themenabschnitt innerhalb einer Vorlesung unterscheidet. Auch die Erinnerungsleistung an Inhalte aus der Vorlesung und das Wiedererkennen von Inhalten fällt nicht durchgehend ab, sondern zeigt ein ähnlich wellenförmiges Muster. Als Ergebnis eines Literaturreviews kommt Bradbury (2016) zur Schlussfolgerung: 
+
+> “The available primary data do not support the concept of a 10- to 15-min attention limit. Interestingly, the most consistent finding from a literature review is that the greatest variability in student attention arises from differences between teachers and not from the teaching format itself. Certainly, even the most interesting material can be presented in a dull and dry fashion”.
+
+Daraus sollte nicht geschlussfolgert werden, dass eine 90-Minuten-Vorlesung, in der Studierende 90 Minuten Input rezipieren sollen, eine gute Form der Instruktion darstellt! Dennoch: Die Aufmerksamkeitskurve in der dargestellten Form erweist sich als Mythos des Lehrens und Lernens und kann nicht pauschal als Begründung für die Notwendigkeit der Aktivierung von Studierenden oder für die Verkürzung von Inputs auf 10 bis 15 Minuten herangezogen werden. 
+
+---
+
+
+## Gestaltung lernwirksamer Lehr-Lernaktivitäten: Lernstile beachten
+Als Lerntypen oder Lernstile werden individuelle Präferenzen für bestimmte Modalitäten und Strategien bei der Informationsaufnahme bezeichnet. Teilweise werden Lernstile als stabile Persönlichkeitsmerkmale beschrieben, nach denen Lernende klassifiziert werden können, z.B. als visuelle, auditive, kinästhetische oder textuelle Lernende. Daraus wurde die Forderung an Lehrende abgeleitet, dass diese ihre Materialien und Methoden an die Lernstile der Lernenden anpassen sollten, um die Lernleistung zu optimieren (vgl. Wininger et al., 2019). 
+Intuitiv klingt es trivial: Soll beispielsweise die Modalität des Lernens an den Lernstil angepasst werden, bekommen Lernende, die lieber textuell lernen einen Text, Lernende, die lieber visuell lernen, ein Video, etc. Wissenschaftlich belegt ist dies jedoch nicht. 
+
+
+> Studien (vgl. Kirschner, 2017) zeigen, dass Menschen (1) Lernstile graduell präferieren und die Zuordnung zu einem bestimmten Lernstil nicht die Realität abbildet und sich (2) neben niedrigen Reliabilitäten bei der Messung von Lernstilen auch oftmals nur schwache Zusammenhänge zwischen selbsteingeschätztem Lernstil und gemessenen Fähigkeiten zeigen. (3) sind auch die vermeintlichen Vorteile einer Passung von Lehr-Lernangeboten zu Lernstilen nicht eindeutig belegt. Zudem kann es aus pädagogischer Sicht sinnvoll sein, Lernpräferenzen nicht zu unterstützen, z.B. weil Lernende andere Herangehensweisen üben oder erlernen sollen. 
+
+Dies war der letzte Mythos, dem wir hier nachgehen wollten. Im Folgenden geht es nun endlich um Faktoren, deren positive Wirkung auf den Lernerfolg wissenschaftlich erwiesen ist! Versprochen!
 
 ---
 
@@ -171,7 +200,7 @@ Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große 
 #### (5.1) Lernende kognitiv (!) aktivieren:
 - Fragen und Diskussionen anregen (Rang 11). 
 - Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z. B.: „Wie bewerten Sie ..." (Rang 16)
-- Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung wichtig!
+- Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung ist wichtig! Hier finden Sie eine Handreichung zur didaktischen Planung von Teamarbeit in der Lehre: Handreichung Teamarbeit
 - Studierende Concept Maps zentraler Ideen, Konzepte, Vorgehensweisen konstruieren und diskutieren lassen (Rang 45).
 
 ---
@@ -404,6 +433,8 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does disc
 
 Biard, N., Cojean, S., & Jamet, E. (2018). Effects of segmentation and pacing on procedural learning by video. Computers in Human Behavior, 89, 411-417.
 
+Bradbury, N. A. (2016). Attention span during lectures: 8 seconds, 10 minutes, or more? Advances in physiology education, 40(4), 509-513. https://doi.org/10.1152/advan.00109.2016 
+
 Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
 
 Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69  [Titel anhand dieser DOI in Citavi-Projekt übernehmen]  
@@ -425,6 +456,8 @@ Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of
 Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. https://doi.org/10.1007/s11251-009-9102-0  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
 
 Katt, J., Murdock, J., Butler, J., & Pryor, B. (2008). Establishing best practices for the use of PowerPoint™ as a presentation aid. Human Communication, 11(2), 189–196.
+
+Kirschner, P. A. (2017). Stop propagating the learning styles myth. Computers & Education, 106, 166-171.
 
 Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
 
@@ -457,3 +490,9 @@ Sweller, J.; Ayres, P. & Kalyuga, S. (2011). Cognitive Load Theory. New York: Sp
 Taylor, L., & Clark, S. (2010). Educational design of short, audio-only podcasts: The teacher and student experience. Australasian Journal of Educational Technology, 26 (3), 386-399.
 
 Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in psychology, 10, 487662.
+
+Wilson, K., & Korn, J. H. (2007). Attention during lectures: Beyond ten minutes. Teaching of Psychology, 34(2), 85-89. https://doi.org/10.1080/00986280701291291 
+
+Wininger, S. R., Redifer, J. L., Norman, A. D., & Ryle, M. K. (2019). Prevalence of Learning Styles in Educational Psychology and Introduction to Education Textbooks: A Content Analysis. Psychology Learning & Teaching, 18(3), 221-243. https://doi.org/10.1177/1475725719830301 
+
+---
