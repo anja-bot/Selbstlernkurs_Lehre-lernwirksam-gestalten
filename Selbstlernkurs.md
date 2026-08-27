@@ -414,7 +414,7 @@ Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Ler
 
 Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung/Weiterentwicklung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
 
-Wir freuen uns unsererseits nun sehr über Feedback zum Selbstlernangebot - insbesondere __zur gestalterischen Umsetzung mit LiaScript__ - in folgendem Taskcards-Board! Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
+Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetzung des Kurses mit LiaScript__ in folgendem Taskcards-Board! Was hat Ihnen aus einer Lernendenperspektive bei der Gestaltung gefallen, was nicht? Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
 
 ---
 
