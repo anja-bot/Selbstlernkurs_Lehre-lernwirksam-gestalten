@@ -398,6 +398,8 @@ Um die Gestaltung von Lehr-Lernmaterialien zu vervollständigen, fehlen als letz
 
 # Transferaufgabe zum Abschluss & Vorbereitung auf den Online-Präsenzteil
 
+__Transferaufgabe: Lernwirksame Lehr-Lernmaterialien mit LiaScript gestalten__
+
 Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, das Sie zukünftig in LiaScript umsetzen oder überarbeiten möchten. Das kann z. B. eine Präsentation für eine Vorlesung sein oder ein Selbstlernmaterial oder eine komplexere Übungsaufgabe.
 
 Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen Gestaltung von Lehre möchten Sie bei der Weiterentwicklung/Neuentwicklung besonders berücksichtigen?
@@ -405,7 +407,8 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 >Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum __Online-Präsenzworkshop am 02.10.2026__ mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript!
 
 ---
-## Vorbereitung Online-Präsenzteil
+
+__Vorbereitung Online-Präsenzteil__
 
 Bitte beantworten Sie uns in Vorbereitung auf unseren Termin am 02.10.2026 noch folgende Fragen:
 
