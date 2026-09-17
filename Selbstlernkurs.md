@@ -359,7 +359,7 @@ Neben den klassischen Textelementen können auch Hörtexte eingesetzt werden, um
 - Authentizität und das Berichten persönlicher Erfahrungen/Anekdoten unterstützen den Lernerfolg (Downs et al., 2011; Cho et al., 2017).
 - Studierende präferieren Hörtexte ihrer Lehrenden im Vergleich zu Studioaufnahmen fremder Personen (Taylor & Clark, 2010).
 
->Mehr Informationen und viele praktive Übungen zur Erstellung von Hörtexten für die Lehre finden Sie in unserem Selbstlernkurs zur Podcasterstellung: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_335&client_id=il_hsm_weiterbildung
+>Mehr Informationen und viele praktische Übungen zur Erstellung von Hörtexten für die Lehre finden Sie in unserem Selbstlernkurs zur Podcasterstellung: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_335&client_id=il_hsm_weiterbildung
 
 ---
 
