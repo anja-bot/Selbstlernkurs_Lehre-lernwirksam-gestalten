@@ -365,7 +365,7 @@ Neben den klassischen Textelementen können auch Hörtexte eingesetzt werden, um
 
 ### (4) Grafiken, Bilder und Animationen
 
-Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar wie Texte. Dies können selbst erstellte __Bilder__, __Fotos__, __Diagramme__ oder __Zeichnungen__ sein. Grafiken sind besonders dafür gedacht, __komplexe Informationen__ zu __reduzieren__ und einfach dargestellt zu vermitteln. So wird bspw. die grafische Darstellung eines Tortendiagramms wesentlicher schneller erfasst, als eine Darstellung im Text. Grafiken lassen sich vor allem für den Aufbau und das Aussehen von Gegenständen, Systemen, Maschinen, aber auch bei __abstrakten Verhältnissen__ verwenden. Bilder lockern auf und können den Lernenden informieren und dokumentieren, können aber auch Aufmerksamkeit auf bestimmte Sachverhalte erregen oder eine bestimmte Stimmung hervorheben. Animationen eignen sich vor allem für folgende Inhalte:
+Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar wie Texte. Dies können selbst erstellte __Bilder__, __Fotos__, __Diagramme__ oder __Zeichnungen__ sein. Grafiken sind besonders dafür gedacht, __komplexe Informationen__ zu __reduzieren__ und einfach dargestellt zu vermitteln. So wird bspw. die grafische Darstellung eines Tortendiagramms wesentlich schneller erfasst, als eine Darstellung im Text. Grafiken lassen sich vor allem für den Aufbau und das Aussehen von Gegenständen, Systemen, Maschinen, aber auch bei __abstrakten Verhältnissen__ verwenden. Bilder lockern auf und können den Lernenden informieren und dokumentieren, können aber auch Aufmerksamkeit auf bestimmte Sachverhalte erregen oder eine bestimmte Stimmung hervorheben. Animationen eignen sich vor allem für folgende Inhalte:
 
 - Chronologische Prozesse (z. B. Wachstum, Abfolge von Einzelereignissen)
 - Räumliche Darstellungen (z. B. durch das dreidimensionale Rotieren von Gegenständen)
@@ -373,8 +373,6 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 - Schritt-für-Schritt-Erläuterungen
 - Vergrößerung – Verkleinerung
 - Änderung von Hintergrundfarben, Lichtverhältnissen" (Lischka, 2019).
-
->Unser Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bietet für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "KI-Visualisierung in der Lehre" an: https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren
 
 ---
 
