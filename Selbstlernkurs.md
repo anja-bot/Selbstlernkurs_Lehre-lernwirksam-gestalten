@@ -381,10 +381,10 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 Für Videos generell gelten ebenso die Punkte, die auch für Grafiken, Animationen und Hörtexte gelten, da sie eine Kombination aller vorher genannten Darstellungstypen sind. Der Fokus sollte vor allem auf der grafischen Komponente liegen, unterstützt durch einen Hörtext. Durch Töne, Bilder und Bewegungen bekommen Lernende einen schnellen Überblick über das behandelte Thema. Der geschriebene Text dient dabei eher als visueller Aufhänger. In Videos können im Vergleich zu den anderen Darstellungsformen __komplexe Prozesse__ am besten __visualisiert__ werden, die Produktion ist jedoch am aufwendigsten.
 
 Berücksichtigen Sie:
-- Lernende sollen die Möglichkeit haben, die Geschwindigkeit der Darbietung von Informationen in dem Video mit Funktionen wie Stopp und „Spulen“ selbst zu bestimmen und so ihr eigenen Lerntempo zu bestimmen (Fyfield, Henderson & Phillips, 2022).
-- Videos sollten so aufbereitet sein, dass Lernende möglichst einfach auf relevante Informationen zugreifen können, z.B. durch inhaltliche und visuelle Segmentierung des Videos und durch das Einfügen von Sprungmarken zu den Kapiteln (Fyfield, Henderson & Phillips, 2022).
+- Lernende sollen die Möglichkeit haben, die Geschwindigkeit der Darbietung von Informationen in dem Video mit Funktionen wie Stopp und „Spulen“ selbst zu bestimmen und so ihr eigenes Lerntempo zu bestimmen (Fyfield, Henderson & Phillips, 2022).
+- Videos sollten so aufbereitet sein, dass Lernende möglichst einfach auf relevante Informationen zugreifen können, z. B. durch inhaltliche und visuelle Segmentierung des Videos und durch das Einfügen von Sprungmarken zu den Kapiteln (Fyfield, Henderson & Phillips, 2022).
 -  Videos, die länger als 10 Minuten sind, werden häufiger abgebrochen (Guo, Kim & Rubin, 2014).
--  Die Sichtbarkeit der Lehrperson hat in einem Video nur dann positive Effekte auf den Lernerfolg, wenn die Sichtbarkeit für den Lernprozess relevant ist, z.B. die Mimik beim Fremdsprachenlernen oder die Nachvollziehbarkeit der Handhabung von Maschinen (Hoogerheide, Loyens & van Gog, 2014).
+-  Die Sichtbarkeit der Lehrperson hat in einem Video nur dann positive Effekte auf den Lernerfolg, wenn die Sichtbarkeit für den Lernprozess relevant ist, z. B. die Mimik beim Fremdsprachenlernen oder die Nachvollziehbarkeit der Handhabung von Maschinen (Hoogerheide, Loyens & van Gog, 2014).
 
 >Wenn Sie sich vertiefend mit der Erstellung von Lehr-Lernvideos beschäftigen wollen, können Sie unseren Selbstlernkurs zu den Grundlagen der Videoerstellung nutzen: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_311&client_id=il_hsm_weiterbildung
 
