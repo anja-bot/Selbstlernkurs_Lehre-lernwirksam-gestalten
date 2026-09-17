@@ -406,7 +406,7 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 
 ---
 
-# Vorbereitung auf Online-Präsenzworkshop
+# Vorbereitung auf den Online-Präsenzworkshop
 
 Bitte beantworten Sie uns in Vorbereitung auf unseren __Termin am 02.10.2026__ noch folgende Fragen:
 
