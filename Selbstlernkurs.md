@@ -419,6 +419,34 @@ Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetz
 ??[](https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde)
 
 
+---
+
+
+# Bitte um Feedback
+
+Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Lernaktivitäten sowie aktivierender Lehr-Lernmaterialien kennengelernt.
+
+Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung/Weiterentwicklung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
+
+Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetzung des Kurses mit LiaScript__ in folgender Umfrage! Was hat Ihnen aus der Lernendenperspektive bei der Gestaltung gefallen, was nicht? Nur durch Ihr Feedback können wir unseren Kurs bedarfsorientiert weiterentwickeln.
+
+1. Was ist Ihnen hinsichtlich der __nicht-inhaltlichen Gestaltung__ positiv aufgefallen?
+
+[[___]]
+
+
+2. Was ist Ihnen hinsichtlich der __nicht-inhaltlichen Gestaltung__ negativ aufgefallen?
+
+[[___]]
+
+
+3. Welche weiteren Hinweise möchten Sie uns noch mit auf den Weg geben?
+
+[[___]]
+
+
+---
+
 
 # Herzlichen Dank für Ihre Teilnahme! 🙏
 
