@@ -402,7 +402,7 @@ Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, da
 
 Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen Gestaltung von Lehre möchten Sie bei der Weiterentwicklung/Neuentwicklung besonders berücksichtigen?
 
->Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum __Online-Präsenzworkshop am 09.06.2026__ mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript!
+>Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum __Online-Präsenzworkshop am 02.10.2026__ mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript!
 
 ---
 
