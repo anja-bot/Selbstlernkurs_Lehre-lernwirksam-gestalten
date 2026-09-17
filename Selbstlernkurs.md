@@ -425,7 +425,7 @@ Bitte beantworten Sie uns in Vorbereitung auf unseren Termin am 02.10.2026 noch 
 
 ---
 
-2. Im Zusammenhang mit LiaScript beschäftigt mich v. a. folgende Frage: (offene Antwort, 200 Z.)
+2. Im Zusammenhang mit LiaScript beschäftigt mich v. a. folgende Frage: (offene Antwort, ca. 200 Z.)
 
 [[___]]
 
