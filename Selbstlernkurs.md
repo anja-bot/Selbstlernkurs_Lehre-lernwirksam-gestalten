@@ -25,9 +25,6 @@ Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenpers
 * Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
 * Möglichkeiten, die LiaScript für die Gestaltung von Lehr-Lernmaterialien bietet, benennen. 
 
- --{{0}}--
-__LiaScript-Tipp:__ Wie Sie sehen, kann ein mit LiaScript erstellter Kurs aus multimedialen Elementen bestehen. Zum Beispiel wie auf der Startseite mit Text und Bild. Der Kurs kann auf einer einzigen Seite fortlaufend gestaltet werden oder wie hier in diesem Kurs, mit mehreren Seiten, so dass die Lernenden den Kurs wie eine Art interaktives Buch durchklicken können.
-
 __Kontaktinfos__
 
 Kontaktieren Sie uns gerne bei inhaltlichen Fragen oder Anmerkungen: [Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) oder [Anja Schulz](mailto:anja.schulz@hd-sachsen.de). 
@@ -35,6 +32,12 @@ Kontaktieren Sie uns gerne bei inhaltlichen Fragen oder Anmerkungen: [Anja Hawli
 Für Fragen zu LiaScript wenden Sie sich bitte an [Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de).
 
 >Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
+
+> [!TIP]
+> Noch ein letzter Hinweis, bevor es richtig los geht: Auf einigen Seiten dieses Kurses finden Sie "LiaScript-Tipps". Diese werden Ihnen in den drei unterschiedlichen Ansichten unterschiedlich angezeigt. Achten Sie auf das "Tip"-Symbol und schalten Sie ggf. auf dieser Seite die Ansicht um!
+
+ --{{0}}--
+__LiaScript-Tipp:__ Wie Sie sehen, kann ein mit LiaScript erstellter Kurs aus multimedialen Elementen bestehen. Zum Beispiel wie auf der Startseite mit Text und Bild. Der Kurs kann auf einer einzigen Seite fortlaufend gestaltet werden oder wie hier in diesem Kurs, mit mehreren Seiten, so dass die Lernenden den Kurs wie eine Art interaktives Buch durchklicken können.
 
 ---
 # Einstieg: Warum ist das Thema so wichtig?
@@ -72,6 +75,9 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 - [ ] je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung
 
 > Die Auflösung finden Sie im folgenden Abschnitt!
+
+> [!TIP]
+
 
      --{{0}}--
 __LiaScript-Tipp:__ Wir haben uns bei der Frage auf dieser Seite für eine Checkliste als Umsetzungsvariante entschieden.
