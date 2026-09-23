@@ -229,7 +229,7 @@ Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große 
 #### (5.1) Lernende kognitiv (!) aktivieren:
 - Fragen und Diskussionen anregen (Rang 11). 
 - Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z. B.: „Wie bewerten Sie ..." (Rang 16)
-- Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung ist wichtig! Hier finden Sie eine Handreichung zur didaktischen Planung von Teamarbeit in der Lehre: [Download Handreichung Teamarbeit](https://github.com/anja-bot/Selbstlernkurs_Lehre-lernwirksam-gestalten/blob/main/Medien/Poster_%20Anleitung%20Teamarbeit.pdf)
+- Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung ist wichtig! Hier finden Sie eine Handreichung zur didaktischen Planung von Teamarbeit in der Lehre: [Download Handreichung Teamarbeit](https://raw.githubusercontent.com/anja-bot/Selbstlernkurs_Lehre-lernwirksam-gestalten/main/Medien/Poster_%20Anleitung%20Teamarbeit.pdf)
 - Studierende Concept Maps zentraler Ideen, Konzepte, Vorgehensweisen konstruieren und diskutieren lassen (Rang 45).
 
 ---
