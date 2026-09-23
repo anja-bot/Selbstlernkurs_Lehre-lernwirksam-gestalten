@@ -6,6 +6,7 @@ language: de
 
 ![Header Selbstlernkurs](Medien/Header_Workshop_Lia.png)
 
+
 # Einführung
 
 Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend gestalten mit LiaScript. Wie interaktive Lehr-Lernmaterialien einfach erstellt, mit Studierenden und Lehrenden aus aller Welt geteilt und kollaborativ bearbeitet werden können".
@@ -23,6 +24,9 @@ Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenpers
 * Kriterien für gelungene Input- und Selbstlernphasen auf die eigene Lehre beziehen.
 * Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
 * Möglichkeiten, die LiaScript für die Gestaltung von Lehr-Lernmaterialien bietet, benennen. 
+
+ --{{0}}--
+__LiaScript-Tipp:__ Wie Sie sehen, kann ein mit LiaScript erstellter Kurs aus multimedialen Elementen bestehen. Zum Beispiel wie auf der Startseite mit Text und Bild. Der Kurs kann auf einer einzigen Seite fortlaufend gestaltet werden oder wie hier in diesem Kurs, mit mehreren Seiten, so dass die Lernenden den Kurs wie eine Art interaktives Buch durchklicken können.
 
 __Kontaktinfos__
 
@@ -68,6 +72,12 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 - [ ] je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung
 
 > Die Auflösung finden Sie im folgenden Abschnitt!
+
+     --{{0}}--
+__LiaScript-Tipp:__ Wir haben uns bei der Frage auf dieser Seite für eine Checkliste als Umsetzungsvariante entschieden.
+Checklisten sind geeignet, wenn Lernende für sich selbst überlegen sollen aber - zumindest an dieser Stelle des Kurses - kein Feedback erfolgen soll. 
+Sie können eine Checkliste einfach unter "Start" erstellen (wählen Sie das Kästchen mit Häkchen) oder Sie arbeiten pro Aussage mit leeren eckigen Klammern nach einem Minus -[ ]   
+
 
 ---
 
@@ -133,6 +143,10 @@ Im Rahmen ihrer Doktorarbeit kann Gerbig-Calcagni (2009) einen eher wellenförmi
 > “The available primary data do not support the concept of a 10- to 15-min attention limit. Interestingly, the most consistent finding from a literature review is that the greatest variability in student attention arises from differences between teachers and not from the teaching format itself. Certainly, even the most interesting material can be presented in a dull and dry fashion”.
 
 Daraus sollte nicht geschlussfolgert werden, dass eine 90-Minuten-Vorlesung, in der Studierende 90 Minuten Input rezipieren sollen, eine gute Form der Instruktion darstellt! Dennoch: Die Aufmerksamkeitskurve in der dargestellten Form erweist sich als Mythos des Lehrens und Lernens und kann nicht pauschal als Begründung für die Notwendigkeit der Aktivierung von Studierenden oder für die Verkürzung von Inputs auf 10 bis 15 Minuten herangezogen werden. 
+
+    --{{0}}--
+__LiaScript-Tipp:__ Sicherlich ist Ihnen das farblich hervorgehobene Zitat im Text aufgefallen. Wenn Sie bestimmte Arten von Hervorhebungen nutzen wollen, z.B. um bestimmte Aussagen als Zitate kenntlich zu machen oder Merksätze für Ihre Studierenden hervorzuheben, können Sie unter "Start" ganz rechts die verschiedenen Formatierungsmöglichkeiten ausprobieren.
+Wichtig: Nutzen Sie immer die gleiche Formatierung für die gleiche Art von Inhalt, damit Ihre Studierenden sich gut orientieren können. 
 
 ---
 
@@ -229,7 +243,8 @@ Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profit
 - Eine Wissensüberprüfung vor Einführung von neuem Stoff durchführen (Rang 25).
 
 ---
-_Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu machen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
+_Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu machen, sind "2-Minuten-Lerntagebücher". 
+Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
 
 ---
 #### (5.4) Lehr-Lernmaterialien und Input:
@@ -238,7 +253,8 @@ _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Re
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
 
 ---
-_Unser Tipp zur Vertiefung: Sie haben sich vielleicht gefragt, was ein Beispiel für das Erzeugen kognitiver Spannung durch Irritation in Lehr-Lernszenarien sein könnte. Wir haben versucht, genau das bei Ihnen durch den Einstieg mit dem "Cone of Experience" zu erreichen - eine Darstellung, die völlig überzeugend wirkt und an Erfahrungen aus der eigenen Lehre anzuknüpfen scheint, sich aber beim genauen Hinsehen als Mythos erweist. Wenn Sie sich vertiefend damit beschäftigen wollen, mit welchen Methoden man zum Sitzungseinstieg Interesse und Aufmerksamkeit wecken kann, schauen Sie einmal in das [Material der Uni Osnabrück](https://lehrportal.uni-osnabrueck.de/sitzungseinstiege-gestalten/)._ 
+_Unser Tipp zur Vertiefung: Sie haben sich vielleicht gefragt, was ein Beispiel für das Erzeugen kognitiver Spannung durch Irritation in Lehr-Lernszenarien sein könnte. 
+Wir haben versucht, genau das bei Ihnen durch den Einstieg mit dem "Cone of Experience", der "Aufmerksamkeitsspanne" und den "Lernstilen" zu erreichen - eine Darstellung, die völlig überzeugend wirkt und an Erfahrungen aus der eigenen Lehre anzuknüpfen scheint, sich aber beim genauen Hinsehen als Mythos erweist. Wenn Sie sich vertiefend damit beschäftigen wollen, mit welchen Methoden man zum Sitzungseinstieg Interesse und Aufmerksamkeit wecken kann, schauen Sie einmal in das [Material der Uni Osnabrück](https://lehrportal.uni-osnabrueck.de/sitzungseinstiege-gestalten/)._ 
 
 ---
 #### (5.5) Interaktion mit Studierenden:
@@ -274,6 +290,12 @@ Welche Ihrer Antworten würden Sie gerne mit den anderen Workshop-Teilnehmenden 
 Notieren Sie diese auf folgendem Edupad: 
 
 ??[Edupad](https://edupad.ch/p/j0b0KyWopb)
+
+
+    --{{0}}--
+__LiaScript-Tipp:__ Sie fragen sich vielleicht, warum wir uns an dieser Stelle für ein Edupad und damit für ein externes Element entschieden haben. 
+Der Grund ist, dass gemeinsames Arbeiten an einem Textdokument innerhalb eines LiaScript-Kurses nicht ohne Weiteres möglich ist. Dieser Kurs wird in Ihrem Browser lokal ausgeführt. Das bedeutet: Jede und jeder von Ihnen arbeitet mit einer eigenen Version des Kurses.
+Damit Sie trotzdem gemeinsam in einem Textdokument arbeiten können und Ihre Beiträge für alle sichtbar sind, nutzen wir an dieser Stelle ein Edupad. Eine andere Möglichkeit wäre der LiaScript Classroom - den werden Sie im Workshop kennenlernen.
 
 ---
 
@@ -327,6 +349,17 @@ Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wur
 In den folgenden Kapiteln haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen. 
 
 >Sollten Sie ausschließlich an Informationen zu bestimmten Materialarten interessiert sein, können Sie gern direkt in das entsprechende Unterkapitel springen. Nutzen Sie das Selbstlernangebot so, wie es Ihren Bedarfen entspricht!
+
+* [Textgestaltung](#25)
+* [Präsentationsfolien](#26)
+* [Hörtexte](#27)
+* [Grafiken, Bilder und Animationen](#28)
+* [Videos](#29)
+* [Interaktive Übungen](#30)
+
+    --{{0}}--
+__LiaScript-Tipp:__ Links auf interne Seiten in Ihrem Kurs können Sie setzen, indem Sie auf "Einfügen" und das Verlinkungssymbol gehen.
+In die eckige Klammer schreiben Sie den Linktext, der auf der Seite erscheinen soll, z.B. "Hier geht es zur Startseite". In die runde Klammer schreiben Sie das Ziel des Link. Setzen Sie ein Rautenzeichen vor die entsprechende Folienummer, zu der der Link verlinken soll.
 
 ---
 
@@ -479,6 +512,7 @@ _Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen
 ![](Medien/Logos)
 
 
+
 ---
 # Literaturverweise
 
@@ -490,7 +524,7 @@ Bradbury, N. A. (2016). Attention span during lectures: 8 seconds, 10 minutes, o
 
 Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
 
-Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69  [Titel anhand dieser DOI in Citavi-Projekt übernehmen]  
+Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69   
 
 Dale, E. (1946). Audio-visual methods in teaching. New York: Dryden Press.
 
@@ -500,13 +534,13 @@ Fyfield, M., Henderson, M., & Phillips, M. (2022). Improving instructional video
 
 Ginns, P. (2005). Meta-analysis of the modality effect. Learning and instruction, 15(4), 313-331.
 
-Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. https://dl.acm.org/doi/10.1145/2556325.2566239  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. https://dl.acm.org/doi/10.1145/2556325.2566239   
 
 Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teamplayer. Wie die Integration von Teamarbeit in die Lehre gelingen kann. In 20. Fachtagung Bildungstechnologien (DELFI) (pp. 99-104). Gesellschaft für Informatik e.V.
 
-Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. https://doi.org/10.1016/j.chb.2014.09.013  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. https://doi.org/10.1016/j.chb.2014.09.013  
 
-Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. https://doi.org/10.1007/s11251-009-9102-0  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. https://doi.org/10.1007/s11251-009-9102-0  
 
 Katt, J., Murdock, J., Butler, J., & Pryor, B. (2008). Establishing best practices for the use of PowerPoint™ as a presentation aid. Human Communication, 11(2), 189–196.
 
@@ -514,7 +548,7 @@ Kirschner, P. A. (2017). Stop propagating the learning styles myth. Computers & 
 
 Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
 
-Krist, S. et al. (2015). PowerPoint-Präsentation. In Schneider, M., Mustafić, M. (eds) Gute Hochschullehre: Eine evidenzbasierte Orientierungshilfe. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-45062-8_5  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Krist, S. et al. (2015). PowerPoint-Präsentation. In Schneider, M., Mustafić, M. (eds) Gute Hochschullehre: Eine evidenzbasierte Orientierungshilfe. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-45062-8_5  
 
 Leahy, W., & Sweller, J. (2016). Cognitive load theory and the effects of transient information on the modality effect. Instructional science, 44(1), 107-123.
 
@@ -534,7 +568,7 @@ Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S
 
 Schneider, S., Beege, M., Nebel, S., & Rey, G. D. (2018). A meta-analysis of how signaling affects learning with media. Educational Research Review, 23, 1-24.
 
-Schneider, M. & Preckel, F. (2017). Variables associated with achievement in higher education: A systematic review of meta-analyses. Psychological Bulletin, 143(6), 565–600. https://doi.org/10.1037/bul0000098  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Schneider, M. & Preckel, F. (2017). Variables associated with achievement in higher education: A systematic review of meta-analyses. Psychological Bulletin, 143(6), 565–600. https://doi.org/10.1037/bul0000098  
 
 Shaaruddin, J., & Mohamad, M. (2017). Identifying the effectiveness of active learning strategies and benefits in curriculum and pedagogy course for undergraduate TESL students. Creative Education, 8(14), 2312-2324.
 
@@ -544,8 +578,8 @@ Taylor, L., & Clark, S. (2010). Educational design of short, audio-only podcasts
 
 Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in psychology, 10, 487662.
 
-Wilson, K., & Korn, J. H. (2007). Attention during lectures: Beyond ten minutes. Teaching of Psychology, 34(2), 85-89. https://doi.org/10.1080/00986280701291291 
+Wilson, K., & Korn, J. H. (2007). Attention during lectures: Beyond ten minutes. Teaching of Psychology, 34(2), 85-89. https://doi.org/10.1080/00986280701291291  
 
-Wininger, S. R., Redifer, J. L., Norman, A. D., & Ryle, M. K. (2019). Prevalence of Learning Styles in Educational Psychology and Introduction to Education Textbooks: A Content Analysis. Psychology Learning & Teaching, 18(3), 221-243. https://doi.org/10.1177/1475725719830301 
+Wininger, S. R., Redifer, J. L., Norman, A. D., & Ryle, M. K. (2019). Prevalence of Learning Styles in Educational Psychology and Introduction to Education Textbooks: A Content Analysis. Psychology Learning & Teaching, 18(3), 221-243. https://doi.org/10.1177/1475725719830301   
 
 ---
