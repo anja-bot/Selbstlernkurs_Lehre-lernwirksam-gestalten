@@ -34,7 +34,7 @@ Für Fragen zu LiaScript wenden Sie sich bitte an [Sebastian Zug](mailto:Sebasti
 >Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
 
 > [!TIP]
-> Noch ein letzter Hinweis, bevor es richtig los geht: Auf einigen Seiten dieses Kurses finden Sie "LiaScript-Tipps". Diese werden Ihnen in den drei unterschiedlichen Ansichten unterschiedlich angezeigt. Achten Sie auf das "Tip"-Symbol und schalten Sie ggf. auf dieser Seite die Ansicht um!
+> Noch ein letzter Hinweis, bevor es richtig los geht: Auf einigen Seiten dieses Kurses finden Sie "LiaScript-Tipps". Diese werden Ihnen in den drei unterschiedlichen Ansichten unterschiedlich angezeigt. Achten Sie auf das "Tip"-Symbol und schalten Sie ggf. auf der Seite die Ansicht um!
 
  --{{0}}--
 __LiaScript-Tipp:__ Wie Sie sehen, kann ein mit LiaScript erstellter Kurs aus multimedialen Elementen bestehen. Zum Beispiel wie auf der Startseite mit Text und Bild. Der Kurs kann auf einer einzigen Seite fortlaufend gestaltet werden oder wie hier in diesem Kurs, mit mehreren Seiten, so dass die Lernenden den Kurs wie eine Art interaktives Buch durchklicken können.
@@ -77,7 +77,7 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 > Die Auflösung finden Sie im folgenden Abschnitt!
 
 > [!TIP]
-> Lia-Script-Tipp unten!
+> Lia-Script-Tipp!
 
 
      --{{0}}--
@@ -152,7 +152,7 @@ Im Rahmen ihrer Doktorarbeit kann Gerbig-Calcagni (2009) einen eher wellenförmi
 Daraus sollte nicht geschlussfolgert werden, dass eine 90-Minuten-Vorlesung, in der Studierende 90 Minuten Input rezipieren sollen, eine gute Form der Instruktion darstellt! Dennoch: Die Aufmerksamkeitskurve in der dargestellten Form erweist sich als Mythos des Lehrens und Lernens und kann nicht pauschal als Begründung für die Notwendigkeit der Aktivierung von Studierenden oder für die Verkürzung von Inputs auf 10 bis 15 Minuten herangezogen werden. 
 
 > [!TIP]
-> Lia-Script-Tipp unten!
+> Lia-Script-Tipp!
 
     --{{0}}--
 __LiaScript-Tipp:__ Sicherlich ist Ihnen das farblich hervorgehobene Zitat im Text aufgefallen. Wenn Sie bestimmte Arten von Hervorhebungen nutzen wollen, z.B. um bestimmte Aussagen als Zitate kenntlich zu machen oder Merksätze für Ihre Studierenden hervorzuheben, können Sie unter "Start" ganz rechts die verschiedenen Formatierungsmöglichkeiten ausprobieren.
@@ -303,7 +303,7 @@ Notieren Sie diese auf folgendem Edupad:
 
 
 > [!TIP]
-> Lia-Script-Tipp unten!
+> Lia-Script-Tipp!
 
     --{{0}}--
 __LiaScript-Tipp:__ Sie fragen sich vielleicht, warum wir uns an dieser Stelle für ein Edupad und damit für ein externes Element entschieden haben. 
@@ -371,7 +371,7 @@ In den folgenden Kapiteln haben wir Hinweise für die Gestaltung verschiedener M
 * [Interaktive Übungen](#30)
 
 > [!TIP]
-> Lia-Script-Tipp unten!
+> Lia-Script-Tipp!
 
 
     --{{0}}--
