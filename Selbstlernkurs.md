@@ -460,7 +460,13 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 
 # Vorbereitung auf den Online-Präsenzworkshop
 
-Bitte beantworten Sie uns in Vorbereitung auf unseren __Termin am 02.10.2026__ noch folgende Fragen:
+Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diesem Selbstlernangebot zu verbinden: LINK EINFÜGEN. 
+
+Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
+
+SCREENSHOT EINFÜGEN
+
+Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren __Termin am 02.10.2026__:
 
 ---
 
