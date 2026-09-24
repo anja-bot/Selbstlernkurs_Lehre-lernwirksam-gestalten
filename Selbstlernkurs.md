@@ -36,7 +36,7 @@ Für Fragen zu LiaScript wenden Sie sich bitte an [Sebastian Zug](mailto:Sebasti
 >Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
 
 > [!TIP]
-> Noch ein letzter Hinweis, bevor es richtig los geht: Auf einigen Seiten dieses Kurses finden Sie "LiaScript-Tipps". Diese werden Ihnen in den drei unterschiedlichen Ansichten unterschiedlich angezeigt. Achten Sie auf das "Tip"-Symbol und schalten Sie ggf. auf der Seite die Ansicht um!
+> Noch ein letzter Hinweis, bevor es richtig los geht: Auf einigen Seiten dieses Kurses finden Sie "LiaScript-Tipps". Diese werden Ihnen in den drei unterschiedlichen Ansichten (Lehrbuch, Präsentation, Folien) unterschiedlich angezeigt. Achten Sie auf das "Tip"-Symbol und schalten Sie ggf. auf der Seite die Ansicht um!
 
  --{{0}}--
 __LiaScript-Tipp:__ Wie Sie sehen, kann ein mit LiaScript erstellter Kurs aus multimedialen Elementen bestehen. Zum Beispiel wie auf der Startseite mit Text und Bild. Der Kurs kann auf einer einzigen Seite fortlaufend gestaltet werden oder wie hier in diesem Kurs, mit mehreren Seiten, so dass die Lernenden den Kurs wie eine Art interaktives Buch durchklicken können.
@@ -85,7 +85,7 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
      --{{0}}--
 __LiaScript-Tipp:__ Wir haben uns bei der Frage auf dieser Seite für eine Checkliste als Umsetzungsvariante entschieden.
 Checklisten sind geeignet, wenn Lernende für sich selbst überlegen sollen aber - zumindest an dieser Stelle des Kurses - kein Feedback erfolgen soll. 
-Sie können eine Checkliste einfach unter "Start" erstellen (wählen Sie das Kästchen mit Häkchen) oder Sie arbeiten pro Aussage mit leeren eckigen Klammern nach einem Minus -[ ]   
+Sie können eine Checkliste im LiaScript LiveEditor einfach unter "Start" erstellen (wählen Sie das Kästchen mit Häkchen) oder Sie arbeiten pro Aussage mit leeren eckigen Klammern nach einem Minus -[ ]   
 
 
 ---
@@ -157,7 +157,7 @@ Daraus sollte nicht geschlussfolgert werden, dass eine 90-Minuten-Vorlesung, in 
 > Lia-Script-Tipp!
 
     --{{0}}--
-__LiaScript-Tipp:__ Sicherlich ist Ihnen das farblich hervorgehobene Zitat im Text aufgefallen. Wenn Sie bestimmte Arten von Hervorhebungen nutzen wollen, z.B. um bestimmte Aussagen als Zitate kenntlich zu machen oder Merksätze für Ihre Studierenden hervorzuheben, können Sie unter "Start" ganz rechts die verschiedenen Formatierungsmöglichkeiten ausprobieren.
+__LiaScript-Tipp:__ Sicherlich ist Ihnen das farblich hervorgehobene Zitat im Text aufgefallen. Wenn Sie bestimmte Arten von Hervorhebungen nutzen wollen, z. B. um bestimmte Aussagen als Zitate kenntlich zu machen oder Merksätze für Ihre Studierenden hervorzuheben, können Sie im LiaScript LiveEditor unter "Start" ganz rechts die verschiedenen Formatierungsmöglichkeiten ausprobieren.
 Wichtig: Nutzen Sie immer die gleiche Formatierung für die gleiche Art von Inhalt, damit Ihre Studierenden sich gut orientieren können. 
 
 ---
@@ -377,8 +377,8 @@ In den folgenden Kapiteln haben wir Hinweise für die Gestaltung verschiedener M
 
 
     --{{0}}--
-__LiaScript-Tipp:__ Links auf interne Seiten in Ihrem Kurs können Sie setzen, indem Sie auf "Einfügen" und das Verlinkungssymbol gehen.
-In die eckige Klammer schreiben Sie den Linktext, der auf der Seite erscheinen soll, z.B. "Hier geht es zur Startseite". In die runde Klammer schreiben Sie das Ziel des Link. Setzen Sie ein Rautenzeichen vor die entsprechende Folienummer, zu der der Link verlinken soll.
+__LiaScript-Tipp:__ Links auf interne Seiten in Ihrem Kurs können Sie setzen, indem Sie im LiaScript LiveEditor auf "Einfügen" und das Verlinkungssymbol gehen.
+In die eckige Klammer schreiben Sie den Linktext, der auf der Seite erscheinen soll, z. B. "Hier geht es zur Startseite". In die runde Klammer schreiben Sie das Ziel des Link. Setzen Sie ein Rautenzeichen vor die entsprechende Folienummer, zu der der Link verlinken soll.
 
 ---
 
@@ -494,33 +494,6 @@ Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetz
 ??[](https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde)
 
 ---
-
-
-# Bitte um Feedback
-
-Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Lernaktivitäten sowie aktivierender Lehr-Lernmaterialien kennengelernt.
-
-Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung/Weiterentwicklung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
-
-Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetzung des Kurses mit LiaScript__ in folgender Umfrage! Was hat Ihnen aus der Lernendenperspektive bei der Gestaltung gefallen, was nicht? Nur durch Ihr Feedback können wir unseren Kurs bedarfsorientiert weiterentwickeln.
-
-1. Was ist Ihnen hinsichtlich der __nicht-inhaltlichen Gestaltung__ positiv aufgefallen?
-
-[[___]]
-
-
-2. Was ist Ihnen hinsichtlich der __nicht-inhaltlichen Gestaltung__ negativ aufgefallen?
-
-[[___]]
-
-
-3. Welche weiteren Hinweise möchten Sie uns noch mit auf den Weg geben?
-
-[[___]]
-
-
----
-
 
 # Herzlichen Dank für Ihre Teilnahme! 🙏
 
