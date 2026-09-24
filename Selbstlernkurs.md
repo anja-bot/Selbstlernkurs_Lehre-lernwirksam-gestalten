@@ -462,11 +462,12 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 
 Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diesem Selbstlernangebot zu verbinden: [Link zum Classroom](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiTm9zdHJ8dHx3c3M6Ly9yZWxheS5lZHVmZWVkLm9yZywgd3NzOi8vbm9zLmxvbCwgd3NzOi8vbm9zdHIubW9tIiwiY291cnNlIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FuamEtYm90L1NlbGJzdGxlcm5rdXJzX0xlaHJlLWxlcm53aXJrc2FtLWdlc3RhbHRlbi9yZWZzL2hlYWRzL21haW4vU2VsYnN0bGVybmt1cnMubWQiLCJyb29tIjoiRnVuRXBpY091dHN0YW5kaW5nRWR1Y2F0aW9uIiwibW9kZSI6Miwib3duZXJUb2tlbkhhc2giOiI2ODVoTTk2YUczbHJ0eWsxK2RNRlhINWtrdUlQVkdMTXdlRnFNVXNjaStZPSIsInB3U2FsdCI6IjhidHNpeUpybnJROUJkWHBGUnFWUUE9PSIsInB3Q2hlY2siOiJRQVdkRGRaL2xVUmE0WXc0TzBZTTFGVU9XSXY3MUNIQ0VCMkk2dkdTa09JPSJ9#32).
 
-Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
+Es öffnet sich folgendes Fenster (s. Screenshot), in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
 
-![Screenshot_Classroom verbinden](Medien/Classroom_verbinden.png)
+<img src="Medien/Classroom_verbinden.png" width="750"/>
+<br>
 
-Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren __Termin am 02.10.2026__:
+Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
 
 ---
 
@@ -493,7 +494,7 @@ Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Ler
 
 Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung/Weiterentwicklung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
 
-Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetzung des Kurses mit LiaScript__ in folgendem Taskcards-Board! Was hat Ihnen aus einer Lernendenperspektive bei der Gestaltung gefallen, was nicht? Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
+Wir freuen uns unsererseits nun sehr über Feedback __zur gestalterischen Umsetzung des Kurses mit LiaScript__ in folgendem Taskcards-Board __bis zum 01.10.2026__! Was hat Ihnen aus einer Lernendenperspektive bei der Gestaltung gefallen, was nicht? Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
 
 ---
 
