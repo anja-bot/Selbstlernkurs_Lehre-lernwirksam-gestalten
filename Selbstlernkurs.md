@@ -464,11 +464,11 @@ Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diese
 
 Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
 
-<img src="Medien/Classroom_verbinden.png" width="700"/>
+![Header Selbstlernkurs](Medien/Classroom_verbinden.png)
 
 <br>
 <br>
-Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
+Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Termin am 02.10.2026:
 
 ---
 
@@ -486,6 +486,8 @@ Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf un
 2. Im Zusammenhang mit LiaScript beschäftigt mich v. a. folgende Frage: (offene Antwort, ca. 200 Z.)
 
 [[___]]
+
+Vielen Dank!
 
 ---
 
