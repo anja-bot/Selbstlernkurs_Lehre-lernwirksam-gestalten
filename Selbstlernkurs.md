@@ -464,7 +464,7 @@ Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diese
 
 Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
 
-<img src="Medien/Classroom_verbinden.png" width="600"/>
+<img src="Medien/Classroom_verbinden.png" width="700"/>
 
 <br>
 <br>
