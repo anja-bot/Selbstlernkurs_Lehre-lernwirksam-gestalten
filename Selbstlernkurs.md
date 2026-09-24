@@ -464,7 +464,7 @@ Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diese
 
 Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
 
-SCREENSHOT EINFÜGEN
+![Screenshot_Classroom verbinden](Medien/Classroom_verbinden.png)
 
 Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren __Termin am 02.10.2026__:
 
