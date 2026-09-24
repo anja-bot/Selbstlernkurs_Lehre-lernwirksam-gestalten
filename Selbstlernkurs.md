@@ -464,10 +464,11 @@ Bitte klicken Sie auf den nachfolgenden Link, um sich mit dem Classroom zu diese
 
 Es öffnet sich folgendes Fenster (s. Screenshot), in dem Sie bitte optional Ihren Namen und das Passwort (classroom-test) eingeben. Anschließend verbinden Sie sich über die Schaltfläche "Connect" mit dem Classroom und kehren automatisch zu dieser Seite zurück.
 
-<img src="Medien/Classroom_verbinden.png" width="550"/>
-<br>
+<img src="Medien/Classroom_verbinden.png" width="450"/>
 
-Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
+<br>
+<br>
+Beantworten Sie uns bitte __ERST DANN__ die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
 
 ---
 
