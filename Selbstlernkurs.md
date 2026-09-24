@@ -467,7 +467,6 @@ Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das
 ![Header Selbstlernkurs](Medien/Classroom_verbinden.png)
 
 <br>
-<br>
 Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Termin am 02.10.2026:
 
 ---
