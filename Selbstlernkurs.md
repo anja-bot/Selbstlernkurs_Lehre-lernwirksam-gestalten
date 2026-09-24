@@ -1,5 +1,7 @@
 <!--
 language: de
+
+version: 1.00
 -->
 
 # Gestaltung lernwirksamer Lehr-Lernaktivitäten und Lehr-Lernmaterialien
