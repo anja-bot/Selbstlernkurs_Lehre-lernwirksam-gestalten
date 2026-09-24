@@ -468,7 +468,7 @@ Es öffnet sich folgendes Fenster, in dem Sie bitte optional Ihren Namen und das
 
 <br>
 <br>
-Beantworten Sie uns bitte __ERST DANN__ die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
+Beantworten Sie uns bitte ERST DANN die folgenden Fragen zur Vorbereitung auf unseren Online-Präsenztermin am 02.10.2026:
 
 ---
 
